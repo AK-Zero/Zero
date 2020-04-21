@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint1">Enter a Number</string>
+    <string name="tv1"> </string>
+    <string name="tv">The FACTORy</string>
+    <string name="tv2"> </string>
+    <string name="tv3"> </string>
+    <string name="generate">Generate</string>
+
+    <string name="def"> </string>
+    <string name="hscore"> </string>
+    <string name="score"> </string>
+    <string name="tvcountdown"> </string>
+    <string name="next_number">Next Number?</string>
+
+
+</resources>
+
